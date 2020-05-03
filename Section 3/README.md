@@ -1,4 +1,5 @@
 <h1><b>It contains assigement 2 and assignment 3 Questions</b></h1>
+<h2><b>Assigment 2</b></h2>
 <ol>
 	<li>Write a Python program to check if a year is a leap year or not.</li>
 	<li>Write a Python program to read a number from the user and print the reversed number.</li>
