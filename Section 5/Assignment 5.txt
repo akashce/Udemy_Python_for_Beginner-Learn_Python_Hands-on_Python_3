@@ -1,0 +1,22 @@
+1 Write a Python program that checks if a string is a palindrome or not.
+2 Write a Python program that reads the email-id of a person in the form of a string and ensure that it belongs to the domain     @google.com.
+3 Write a Python program that reads a string and displays the longest substring of the given string having just consonants.
+4 Write a Python program that prompts for a phone number of digits and two dashes, with dashes after -the area code and the next three   numbers. For example, 017-555-1512 is a legal input. Display if the phone number entered is in valid format or not.
+5 Write a program that
+	* Prompts the user for a string.
+	* Extracts all the digits from the string.
+	* If there are digits print – the original string, the digits and the sum of the digits.
+	* If there are no digits, print the original string and a message “ has no digits”.
+6 Write a Python program that reads a string from the user and prints the percentage of characters that are alphanumeric and also   swaps the case of all the characters present in the string.
+7 Write a program that reads two strings and prints it in the following format.
+	String 1
+
+	S            2
+
+	  T        G
+
+	    R    N
+
+	       I
+8 Write a Python program that reads a string and an integer and prints the sum of the digits extracted from the string and the integer   entered. If string contains no digits, then the sum of the digits of the string should be taken as 0.
+9 Write a Python program that reads two strings and prints the string that appears first in the dictionary.
